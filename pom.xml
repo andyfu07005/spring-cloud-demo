@@ -7,6 +7,7 @@
     <groupId>com.andy</groupId>
     <artifactId>spring-cloud-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <description>这是一个学习项目</description>
     <modules>
         <module>eureka-server</module>
         <module>service-one</module>
