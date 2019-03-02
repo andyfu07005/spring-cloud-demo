@@ -38,7 +38,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-
+	<!--spring-cloud pom依赖-->
     <dependencyManagement>
         <dependencies>
             <dependency>
